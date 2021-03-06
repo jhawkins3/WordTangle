@@ -1,0 +1,7 @@
+4,3,3
+JAME
+SMAD
+ISON
+JAM,Jelly,0,0
+MAD,Angry,1,1
+SON,Male child,1,2

@@ -1,0 +1,11 @@
+10,5,5
+QCLASSWERT
+EXPRESSION
+INDEFINITE
+SITERATION
+ZXOBJECTMM
+CLASS,An intensive definition of a set,1,0
+EXPRESSION,A valid construct that can be evaluated,0,1
+INDEFINITE,Not known in advance,0,2
+ITERATION,One pass through a loop,1,3
+OBJECT,An instance of a class,2,4
